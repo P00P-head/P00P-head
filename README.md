@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Royan 🙋🏾‍♂️🎧
 
+I'm Royan Topno from India and I'm passionate about Software Engineering, Development and Graphic Designing in general.
 <!--
 **P00P-head/P00P-head** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
