@@ -5,10 +5,10 @@
 
 <p>
   • I'm currently learning JavaScript.<br>
+  • Hackerrank (🌟5 C++, 🌟4 Problem Solving).<br>
   • Codeforces Beginner.<br>
   • I'm can speak Hindi and English.<br>
   • My hobbies are chess, music and art.<br>
-  • Pronouns - HE/HIM<br>
   
 </p>
 
