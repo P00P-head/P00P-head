@@ -1,4 +1,6 @@
 <h1 align="center">Hi, I'm Royan Topno 🙋🏾‍♂️🎧</h1>
+
+<p align="center"><img src="https://github.com/P00P-head/P00P-head/blob/main/github_banner.png"/> </p>
 <h3 align="center">I'm Royan Topno from India and I'm passionate about Software Engineering, Development and Graphic Designing in general.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p00p-head&label=Profile%20views&color=0e75b6&style=flat" alt="p00p-head" /> </p>
