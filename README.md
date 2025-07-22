@@ -41,4 +41,5 @@ width="40" height="40"/> </a>
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=P00P-head&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P00P-head&size_weight=0.5&count_weight=0.5">
 </p>
