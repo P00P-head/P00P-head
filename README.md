@@ -14,7 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shirozakee">
-<img align="center" src="https://github.com/P00P-head/P00P-head/blob/main/git_icons/twitter.png" alt="shirozakee" height="40" width="40" /></a>
+<img align="center" src="https://github.com/P00P-head/P00P-head/blob/main/git_icons/twitter.png" alt="shirozakee" height="40" width="40"
+ /></a>
 <a href="https://linkedin.com/in/royan-topno-633072247"><img align="center" src="https://github.com/P00P-head/P00P-head/blob/main/git_icons/linkedin.png" alt="royan-topno-633072247" height="40" width="40" /></a>
 <a href="https://instagram.com/sabanroyan"><img align="center" src="https://github.com/P00P-head/P00P-head/blob/main/git_icons/insta.png" alt="sabanroyan" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/royantopno2000"><img align="center" src="https://github.com/P00P-head/P00P-head/blob/main/git_icons/HR.png" alt="royantopno2000" height="40" width="40" /></a>
@@ -40,7 +41,7 @@ width="40" height="40"/> </a>
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/P00P-head/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<!--   <img src="https://raw.githubusercontent.com/P00P-head/github-stats/master/generated/overview.svg#gh-dark-mode-only"> -->
 <img src="https://github-readme-stats.vercel.app/api?username=P00P-head&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P00P-head&size_weight=0.5&count_weight=0.5">
 </p>
