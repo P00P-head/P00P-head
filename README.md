@@ -38,3 +38,7 @@ width="40" height="40"/> </a>
 <a href="https://www.linux.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 
 </p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=P00P-head&show_icons=true&theme=radical">
+</p>
